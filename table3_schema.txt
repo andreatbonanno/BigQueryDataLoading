@@ -1,0 +1,1 @@
+column_1:INTEGER,column_2:INTEGER,column_3:STRING,column_4:STRING,column_5:STRING,column_6:STRING,column_7:STRING,column_8:STRING,column_9:STRING,column_10:STRING
